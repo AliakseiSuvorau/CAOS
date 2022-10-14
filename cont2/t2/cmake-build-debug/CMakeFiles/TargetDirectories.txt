@@ -1,0 +1,3 @@
+/media/alex/MIPT/sem3/caos/cont2/task_2/cmake-build-debug/CMakeFiles/task_2.dir
+/media/alex/MIPT/sem3/caos/cont2/task_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/alex/MIPT/sem3/caos/cont2/task_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
